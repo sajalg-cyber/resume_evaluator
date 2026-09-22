@@ -1,0 +1,6 @@
+pypdf
+python-docx
+dotenv
+groq
+pydantic
+# exceptions
